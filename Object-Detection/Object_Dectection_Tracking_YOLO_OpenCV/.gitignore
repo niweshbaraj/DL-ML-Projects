@@ -179,8 +179,8 @@ weights/
 # datasets/
 
 # Annotated output videos (comment out if you want to keep them)
-data/annotated_data/videos/*.mp4
-data/annotated_data/videos/*.avi
+# data/annotated_data/videos/*.mp4
+# data/annotated_data/videos/*.avi
 
 # Temporary files
 *.tmp
